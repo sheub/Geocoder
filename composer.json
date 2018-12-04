@@ -52,7 +52,7 @@
         "psr-4": { "Geocoder\\Tests\\": "tests/" }
     },
     "scripts": {
-        "test": "vendor/bin/phpunit"
+        "test": "vendor\\bin\\phpunit"
     },
     "minimum-stability": "dev",
     "prefer-stable": true,
