@@ -17,10 +17,6 @@ composer require geocoder-php/BANFrance-provider
 ```
 
 
-### Language parameter
-
-Define the preferred language of address elements in the result. Without a preferred language, the Here Geocoder will return results in an official country language or in a regional primary language so that local people will understand. Language code must be provided according to RFC 4647 standard.
-
 ### Contribute
 
 Contributions are very welcome! Send a pull request to the [main repository](https://github.com/geocoder-php/Geocoder) or 
